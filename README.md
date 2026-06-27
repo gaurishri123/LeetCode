@@ -9,6 +9,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0001-two-sum](https://github.com/gaurishri123/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,4 +43,5 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurishri123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
