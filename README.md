@@ -8,6 +8,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | ------- |
 | [0001-two-sum](https://github.com/gaurishri123/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,6 +31,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/gaurishri123/LeetCode/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 ## Counting
 |  |
 | ------- |
@@ -39,4 +41,5 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurishri123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
