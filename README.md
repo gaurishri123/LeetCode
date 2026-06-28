@@ -10,6 +10,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/gaurishri123/LeetCode/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
