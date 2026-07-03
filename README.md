@@ -8,6 +8,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | ------- |
 | [0001-two-sum](https://github.com/gaurishri123/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gaurishri123/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
@@ -45,6 +46,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurishri123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
@@ -55,5 +57,6 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gaurishri123/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
