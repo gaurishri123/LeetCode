@@ -59,4 +59,8 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | ------- |
 | [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/gaurishri123/LeetCode/tree/master/0169-majority-element) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/gaurishri123/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
