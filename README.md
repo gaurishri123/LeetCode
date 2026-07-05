@@ -13,6 +13,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurishri123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0151-reverse-words-in-a-string](https://github.com/gaurishri123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -63,4 +65,8 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0237-delete-node-in-a-linked-list](https://github.com/gaurishri123/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
