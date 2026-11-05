@@ -15,6 +15,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurishri123/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0876-middle-of-the-linked-list](https://github.com/gaurishri123/LeetCode/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/gaurishri123/LeetCode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -79,6 +81,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/gaurishri123/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/gaurishri123/LeetCode/tree/master/0169-majority-element) |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Linked List
 |  |
 | ------- |
@@ -111,4 +114,16 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/gaurishri123/LeetCode/tree/master/0148-sort-list) |
+## Greedy
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Prefix Sum
+|  |
+| ------- |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 <!---LeetCode Topics End-->
