@@ -32,12 +32,14 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0008-string-to-integer-atoi](https://github.com/gaurishri123/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/gaurishri123/LeetCode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/gaurishri123/LeetCode/tree/master/0151-reverse-words-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurishri123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/gaurishri123/LeetCode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/gaurishri123/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/gaurishri123/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
 |  |
@@ -117,6 +119,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
@@ -126,4 +129,12 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
