@@ -9,6 +9,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0001-two-sum](https://github.com/gaurishri123/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/gaurishri123/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/gaurishri123/LeetCode/tree/master/0031-next-permutation) |
+| [0045-jump-game-ii](https://github.com/gaurishri123/LeetCode/tree/master/0045-jump-game-ii) |
 | [0075-sort-colors](https://github.com/gaurishri123/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/gaurishri123/LeetCode/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/gaurishri123/LeetCode/tree/master/0169-majority-element) |
@@ -120,6 +121,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurishri123/LeetCode/tree/master/0045-jump-game-ii) |
 | [0135-candy](https://github.com/gaurishri123/LeetCode/tree/master/0135-candy) |
 | [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -134,6 +136,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/gaurishri123/LeetCode/tree/master/0045-jump-game-ii) |
 | [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
