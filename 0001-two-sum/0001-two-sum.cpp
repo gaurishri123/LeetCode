@@ -1,18 +1,20 @@
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        //used map
-        int n= nums.size();
-        map<int,int> mpp;
+        vector<int> result;
+        int n=nums.size();
         for(int i=0; i<n; i++){
-            int a=nums[i];
-            int more=target-a;
-            if(mpp.find(more)!=mpp.end()){
-                return{mpp[more],i};
-            }
-            mpp[a]=i;
+            for(int j=i+1; j<n; j++){
+                if(nums[i]+nums[j]==target){
+                    result.push_back(i);
+                    result.push_back(j);
+                    return result;
+                }
+            }                              /* if we want to return indexes, specify
+                                        the return type to be vector and array to 
+                                        be vector*/
         }
-        return {};
-        
+        return result;
+    
     }
 };
