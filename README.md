@@ -16,6 +16,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurishri123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Hash Table
@@ -132,6 +133,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Prefix Sum
 |  |
 | ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
 |  |
@@ -142,4 +144,8 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/gaurishri123/LeetCode/tree/master/0678-valid-parenthesis-string) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
