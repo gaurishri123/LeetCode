@@ -16,6 +16,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 | [0189-rotate-array](https://github.com/gaurishri123/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/gaurishri123/LeetCode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/gaurishri123/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/gaurishri123/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/gaurishri123/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
@@ -135,6 +136,7 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/gaurishri123/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/gaurishri123/LeetCode/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Dynamic Programming
@@ -150,5 +152,10 @@ Structured repository of LeetCode DSA solutions showcasing consistency, problem-
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/gaurishri123/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1004-max-consecutive-ones-iii](https://github.com/gaurishri123/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/gaurishri123/LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/gaurishri123/LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
